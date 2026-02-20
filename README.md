@@ -63,6 +63,7 @@ A aplicação foi estruturada seguindo o padrão de camadas para garantir a sepa
 ---
 
 **Autor:** José Victor
+
 Projeto de estudo focado em persistência de dados NoSQL e desenvolvimento de web services com Java.
 
 ---
